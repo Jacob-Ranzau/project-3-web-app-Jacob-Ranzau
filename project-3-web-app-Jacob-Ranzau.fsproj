@@ -14,6 +14,10 @@
     </FsYacc>
     <Compile Include="FunPar.fs" />
 
+    <FsLex Include="FunLex.fsl">
+      <OtherFlags>--unicode</OtherFlags>
+    </FsLex>
+
     <Compile Include="Program.fs" />
   </ItemGroup>
 
