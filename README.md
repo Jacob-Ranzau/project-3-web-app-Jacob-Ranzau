@@ -17,8 +17,6 @@ This project is for **CS 510 Project 3** at Wichita State University. It is a si
 
 ## 📷 Screenshots
 
-> _Add screenshots here. For example:_
-
 ![screenshot1](screenshots/project3.png)
 
 ---
@@ -28,9 +26,9 @@ This project is for **CS 510 Project 3** at Wichita State University. It is a si
 - **F#**
 - **ASP.NET Core Web App**
 - **Giraffe**
-- **FsLexYacc** (Lexer and Parser)
-- **CSS** for styling
-- **HTML + JavaScript** (lightweight interaction)
+- **FsLexYacc** 
+- **CSS**
+- **HTML + JavaScript** 
 - **.NET 8**
 
 ---
