@@ -8,7 +8,12 @@
   <ItemGroup>
     <Compile Include="Absyn.fs" />
     <Compile Include="Fun.fs" />
-    
+
+    <FsYacc Include="FunPar.fsy">
+      <OtherFlags>-v --module FunPar</OtherFlags>
+    </FsYacc>
+    <Compile Include="FunPar.fs" />
+
     <Compile Include="Program.fs" />
   </ItemGroup>
 
