@@ -17,8 +17,9 @@
     <FsLex Include="FunLex.fsl">
       <OtherFlags>--unicode</OtherFlags>
     </FsLex>
-
     <Compile Include="FunLex.fs" />
+
+    <Compile Include="Parse.fs" />
 
     <Compile Include="Program.fs" />
   </ItemGroup>
