@@ -18,6 +18,8 @@
       <OtherFlags>--unicode</OtherFlags>
     </FsLex>
 
+    <Compile Include="FunLex.fs" />
+
     <Compile Include="Program.fs" />
   </ItemGroup>
 
